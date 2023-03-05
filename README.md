@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Christina
 - 📍Based in Dallas-Fort Worth
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crw-b&hide_progress=true)
-
 <!---
 crw-b/crw-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
